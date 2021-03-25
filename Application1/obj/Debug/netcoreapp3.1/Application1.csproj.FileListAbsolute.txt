@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Desktop\ApplicationDevelopment_-master-20210315T192232Z-001\ApplicationDevelopment_-master\Application1\obj\Debug\netcoreapp3.1\Application1.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\ApplicationDevelopment_-master-20210315T192232Z-001\ApplicationDevelopment_-master\Application1\obj\Debug\netcoreapp3.1\Application1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\ApplicationDevelopment_-master-20210315T192232Z-001\ApplicationDevelopment_-master\Application1\obj\Debug\netcoreapp3.1\Application1.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\ApplicationDevelopment_-master-20210315T192232Z-001\ApplicationDevelopment_-master\Application1\obj\Debug\netcoreapp3.1\Application1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\ApplicationDevelopment_-master-20210315T192232Z-001\ApplicationDevelopment_-master\Application1\obj\Debug\netcoreapp3.1\Application1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\ApplicationDevelopment_-master-20210315T192232Z-001\ApplicationDevelopment_-master\Application1\obj\Debug\netcoreapp3.1\Application1.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\ApplicationDevelopment_-master-20210315T192232Z-001\ApplicationDevelopment_-master\Application1\obj\Debug\netcoreapp3.1\Application1.RazorAssemblyInfo.cs
